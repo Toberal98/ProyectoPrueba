@@ -1,0 +1,20 @@
+{
+   "catalog":[
+       {
+        "author": "Dan Brown",
+        "titulo": "Angels & Demons",
+        "genero":"Novela, Thriller, Suspenso, Policial, ficción conspirativa",
+        "precio": 11.63,
+        "fecha_publicacion": "2000/05/11",
+        "description": "Fantasia"
+       },
+       {
+        "author": "Dan Brown",
+        "titulo": "Angels & Demons",
+        "genero":"Novela, Thriller, Suspenso, Policial, ficción conspirativa",
+        "precio": 17.03,
+        "fecha_publicacion": "1997/05/11",
+        "description": "Fantasia"
+       }
+] 
+}
